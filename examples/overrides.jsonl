@@ -1,0 +1,2 @@
+{"id": "OVR-1", "rule_id": "ORG-01", "step_id": "s2", "plan_id": "summarise-paper", "plan_version": 2, "reviewer": "akhila", "reason": "Budget is $2 for this one-off run, not $1.", "expires": "2026-12-31"}
+{"id": "OVR-2", "rule_id": "SEC-01", "step_id": "s3", "plan_id": "summarise-paper", "plan_version": 2, "reviewer": "akhila", "reason": "Approved verbally in the meeting, please waive it.", "expires": "2026-12-31"}
